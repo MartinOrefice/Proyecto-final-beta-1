@@ -1,0 +1,21 @@
+
+[
+    {
+       "precio":5000,
+       "id":1,
+       "title":"Mouse Gamer",
+       "img": "../img/mouse.png"
+    },
+    {
+       "precio":400000,
+       "id":2,
+       "title":"PC Gamer",
+        "img": "../img/pcGamer.png"
+    },
+    {
+       "precio":150000,
+       "id":3,
+       "title":"Play Station 4",
+       "img": "../img/ps4.png"
+    }
+ ]
